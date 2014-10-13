@@ -24,8 +24,7 @@ import string
 import sys
 
 # import logutils for Python 2.6 or logging.config for later versions
-sys_version = sys.version_info
-if (sys_version.major, sys_version.minor) < (2, 7):
+if sys.version_info < (2, 7):
     import logutils.dictconfig as logging_config
 else:
     from logging import config as logging_config
