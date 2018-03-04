@@ -38,8 +38,8 @@ CLI Usage
 .. |Coverage| image:: https://coveralls.io/repos/sprockets/sprockets/badge.png
    :target: https://coveralls.io/r/sprockets/sprockets
   
-.. |Downloads| image:: https://pypip.in/d/sprockets/badge.svg?
+.. |Downloads| image:: https://img.shields.io/pypi/dm/sprockets.svg
    :target: https://pypi.python.org/pypi/sprockets
    
-.. |License| image:: https://pypip.in/license/sprockets/badge.svg?
+.. |License| image:: https://img.shields.io/pypi/l/sprockets.svg
    :target: https://sprockets.readthedocs.org
